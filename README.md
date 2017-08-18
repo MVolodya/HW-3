@@ -7,5 +7,5 @@ Create html page as similar to the picture as possible, use only html tags an at
 
 ---
 
-
+* [View result in GitHub Pages]()
 
